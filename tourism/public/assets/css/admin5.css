@@ -1,0 +1,44 @@
+@media (min-width: 1200px){
+.container {
+    max-width: 1145px;
+    margin-top: -696px;
+    margin-left: 215px;
+}
+}
+
+@media (min-width: 576px){
+.col-sm-10 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 83.33333%;
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
+    margin-top: -30px;
+    margin-left: 128px;
+    }
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    margin-top: -20px;
+}
+#wrapper #content-wrapper {
+    overflow-x: hidden;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 80px;
+    }
+.img {
+    height: 50%;
+    width: 50%;
+}
+
+.ftco-counter .img {
+  display: block;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+      margin-top: 88px; }
+  @media (max-width: 991.98px) {
+    .ftco-counter .img {
+      height: 350px; } }
